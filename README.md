@@ -17,7 +17,7 @@ Web Application Development
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (In this lesson we learned how to use a function, specifically document.getElementById, in a HTML document as well as an external javascript file.)
+2. (I learned that it is very important to check that there is no errors in your javascript file.)
+3. (We learned how to use if/else statements to test conditions in your file.)
 
