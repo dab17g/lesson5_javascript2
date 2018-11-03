@@ -4,13 +4,13 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 2, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Dathan Busby)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we used some functions to help complete a calculator that finds the exchange rate for a user-entered dollar amount. We used those same functions to clear the calculator as well.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
